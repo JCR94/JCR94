@@ -16,6 +16,7 @@ I have a PhD in Mathematics, with a focus on the combinatorics of the Grassmanni
 ## Some of my favourite projects
 
 🚧 ... under construction .. 🚧
+
 Just started using GitHub, so hopefully there will be more here in the future.
 
 
