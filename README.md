@@ -6,7 +6,7 @@
 joel_costa = {
     'name': 'Joel Costa',
     'location': 'Leeds, UK',
-    'computer_languages': ['Python','C\#','Java'],
+    'computer_languages': ['Python','C#','Java'],
     'human_languages': ['English','Portuguese','German','French','Luxembourgish'],
     'interests': ['Mathematics','Data Science','Languages','Video Games','Card Games']
 }
