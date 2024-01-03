@@ -16,7 +16,7 @@ joel_costa = {
 
 After finishing my PhD in Mathematics with a focus on the combinatorics of the Grassmannian, I took an interest in data engineering and data science. To kickstart my career path in that direction, I completed an immersive course in Data Engineering provided by AICore.
 
-During the course in DataEngineering, I finished the following projects:
+During the course in Data Engineering, I finished the following projects:
 
 - [Hangman](https://github.com/JCR94/hangman): A simple game of Hangman played in the terminal. In this project, I refreshed my Python skills and learned how to use Git and GitHub.
 - [Multinational Retail Data Centralisation](https://github.com/JCR94/multinational-retail-data-centralisation): We extract data from multiple sources, clean them, and store them in a relation database. In this project, I learned how to work with Pandas dataframes, and how to work with relational databases and SQL.
